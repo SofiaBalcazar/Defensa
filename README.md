@@ -22,5 +22,3 @@ Sistema de reservas de hoteles y busqueda de sitios turísticos
 - Camila Soliz: Backend y Líder
 - César López: Encargado del Frontend
 - Sofía Balcazar: Documentación y Marketing
-- Sofía Balcazar: Documentacion
-- Iván Machuca: Marketing
