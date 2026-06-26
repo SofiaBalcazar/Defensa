@@ -1,9 +1,9 @@
 from django.urls import path
-from .views import *
+from .views import Inicio,Registro, Integrantes, Agregar, Modificar, Geolocalizacion
 
 urlpatterns = [
     
-    path('', Home, name='Inicio'), 
+    path('Inicio/', Inicio, name='Inicio'), 
     path('registro/', Registro, name="Registro"),
     path('integrantes/', Integrantes, name="integrantes"),
     
